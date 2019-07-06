@@ -1,0 +1,43 @@
+body{
+    background-color:#fafafa !important; 
+    margin: 30px 0px;
+}
+.img-celular{
+background-image: url('../imgs/celular-bg.png');
+background-size: cover;
+background-repeat: no-repeat;
+height:618px;
+width: 100%;
+}
+
+.logo{
+width: 100%;
+
+}
+.form{
+    background-color: #fff;
+    border: 1px solid #e6e6e6;
+    border-radius: 1px;
+    padding: 10px;
+}
+.form .form-header .titulo{
+    font-weight: 600;
+    line-height: 20px;
+    font-size: 17px;
+    margin: 0 40px 10px;
+    color: #999;
+    text-align: center;
+}
+
+
+.content{
+
+}
+
+.btn.btn-primary{
+    background-color: #3897f0;
+    border: 1px solid #3897f0;
+    border-radius: 4px;
+    color: #fff;
+    position: relative;
+}
